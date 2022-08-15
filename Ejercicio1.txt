@@ -1,0 +1,96 @@
+Encabezado:
+
+Nombre:
+Jose Ignacio Granados Marin
+
+Carne:
+2018319698
+
+Solucion del Ejercicio:
+
+Fecha actual del sistema:
+lun  8 ago 21:29:18 CST 2022
+
+Usuario:
+nachogranados
+
+Version de kernel de Linux:
+Linux version 5.13.0-48-generic (buildd@lcy02-amd64-040) (gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0, GNU ld (GNU Binutils for Ubuntu) 2.34) #54~20.04.1-Ubuntu SMP Thu Jun 2 23:37:17 UTC 2022
+
+Lista de procesos del usuario actual:
+    PID TTY          TIME CMD
+    982 ?        00:00:00 systemd
+    983 ?        00:00:00 (sd-pam)
+    993 ?        00:00:00 pulseaudio
+    995 ?        00:00:00 tracker-miner-f
+   1003 ?        00:00:00 gnome-keyring-d
+   1023 tty2     00:00:00 gdm-x-session
+   1026 tty2     00:00:25 Xorg
+   1039 ?        00:00:00 dbus-daemon
+   1073 ?        00:00:00 gvfsd
+   1090 ?        00:00:00 gvfsd-fuse
+   1100 ?        00:00:01 gvfs-udisks2-vo
+   1105 ?        00:00:00 gvfs-mtp-volume
+   1111 ?        00:00:00 gvfs-afc-volume
+   1117 ?        00:00:00 gvfs-goa-volume
+   1122 ?        00:00:00 goa-daemon
+   1161 ?        00:00:00 goa-identity-se
+   1163 ?        00:00:00 gvfs-gphoto2-vo
+   1184 ?        00:00:00 gnome-keyring-d
+   1333 tty2     00:00:00 gnome-session-b
+   1653 ?        00:00:00 ssh-agent
+   1671 ?        00:00:00 at-spi-bus-laun
+   1676 ?        00:00:00 dbus-daemon
+   1701 ?        00:00:00 gnome-session-c
+   1707 ?        00:00:00 gnome-session-b
+   1722 ?        00:01:04 gnome-shell
+   1966 ?        00:00:00 ibus-daemon
+   1970 ?        00:00:00 ibus-dconf
+   1971 ?        00:00:01 ibus-extension-
+   1975 ?        00:00:00 ibus-x11
+   1981 ?        00:00:00 ibus-portal
+   1985 ?        00:00:00 at-spi2-registr
+   2037 ?        00:00:00 xdg-permission-
+   2039 ?        00:00:00 gnome-shell-cal
+   2046 ?        00:00:00 dconf-service
+   2061 ?        00:00:00 evolution-sourc
+   2101 ?        00:00:00 gjs
+   2108 ?        00:00:00 gsd-a11y-settin
+   2109 ?        00:00:00 gsd-color
+   2111 ?        00:00:00 gsd-datetime
+   2113 ?        00:00:00 gsd-housekeepin
+   2115 ?        00:00:00 gsd-keyboard
+   2116 ?        00:00:00 gsd-media-keys
+   2117 ?        00:00:00 gsd-power
+   2118 ?        00:00:00 gsd-print-notif
+   2119 ?        00:00:00 gsd-rfkill
+   2121 ?        00:00:00 gsd-screensaver
+   2123 ?        00:00:00 gsd-sharing
+   2125 ?        00:00:00 gsd-smartcard
+   2127 ?        00:00:00 gsd-sound
+   2128 ?        00:00:00 gsd-usb-protect
+   2129 ?        00:00:00 gsd-wacom
+   2130 ?        00:00:00 gsd-wwan
+   2131 ?        00:00:00 gsd-xsettings
+   2132 ?        00:00:00 ibus-engine-sim
+   2135 ?        00:00:00 evolution-alarm
+   2136 ?        00:00:00 gsd-disk-utilit
+   2250 ?        00:00:00 gvfsd-trash
+   2260 ?        00:00:00 gsd-printer
+   2290 ?        00:00:11 snap-store
+   2313 ?        00:00:00 gvfsd-metadata
+   2314 ?        00:00:00 xdg-document-po
+   2337 ?        00:00:00 evolution-calen
+   2383 ?        00:00:00 evolution-addre
+   2553 ?        00:00:00 xdg-desktop-por
+   2559 ?        00:00:00 xdg-desktop-por
+   2871 ?        00:00:00 update-notifier
+  39366 ?        00:00:08 nautilus
+  39402 ?        00:00:00 gvfsd-recent
+  39942 ?        00:00:03 gnome-terminal-
+  39949 pts/0    00:00:00 bash
+  39995 ?        00:00:05 gedit
+  40536 ?        00:00:00 tracker-store
+  40596 ?        00:00:00 tracker-extract
+  40614 pts/0    00:00:00 ps
+
